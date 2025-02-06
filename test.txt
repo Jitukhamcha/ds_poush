@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 abcde
 fghij
 klmno
 pqrst
 uvwxyz
 123456789
+=======
+abcde fghij
+>>>>>>> ac74673ae9edd058a175ac23a641c152ea225cbc
